@@ -41,6 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Gameplay\Controller.cs" />
+    <Compile Include="Gameplay\Draw.cs" />
+    <Compile Include="Gameplay\GameObject1.cs" />
+    <Compile Include="Gameplay\GameObject2.cs" />
+    <Compile Include="Gameplay\GameObject3.cs" />
+    <Compile Include="Gameplay\Object1.cs" />
+    <Compile Include="Gameplay\Object2.cs" />
+    <Compile Include="Gameplay\Object3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
